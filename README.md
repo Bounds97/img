@@ -5,3 +5,10 @@
 * 获取 bing图片
 * 获取 chromeHome图片
 * 获取 Spotlight图片（win10锁屏壁纸）
+
+### Useage
+
+```
+npm install
+pm2 start app.js --name 'img'
+```
